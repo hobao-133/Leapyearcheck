@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\bin\Debug\net9.0\Leapyearcheck.exe
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\bin\Debug\net9.0\Leapyearcheck.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\bin\Debug\net9.0\Leapyearcheck.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\bin\Debug\net9.0\Leapyearcheck.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\bin\Debug\net9.0\Leapyearcheck.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\refint\Leapyearcheck.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\Leapyearcheck.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Leapyearcheck\obj\Debug\net9.0\ref\Leapyearcheck.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Leapyearcheck/1.0.0": {
+        "runtime": {
+          "Leapyearcheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leapyearcheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
